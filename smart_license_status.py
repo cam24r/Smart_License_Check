@@ -1,9 +1,7 @@
 #!/usr/bin/env python 
 
 from scrapli.driver.core import IOSXEDriver
-import json
 import csv
-import getpass
 
 '''
 Displays the format that must be followed so the Testbeds can ge generated.
